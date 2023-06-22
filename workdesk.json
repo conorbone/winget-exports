@@ -1,0 +1,188 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2023-06-22T11:50:10.049-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "JGraph.Draw"
+				},
+				{
+					"PackageIdentifier" : "Plex.Plexamp"
+				},
+				{
+					"PackageIdentifier" : "ShareX.ShareX"
+				},
+				{
+					"PackageIdentifier" : "CloneSpy.CloneSpy"
+				},
+				{
+					"PackageIdentifier" : "GIMP.GIMP"
+				},
+				{
+					"PackageIdentifier" : "Git.Git"
+				},
+				{
+					"PackageIdentifier" : "HandBrake.HandBrake"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier" : "Mozilla.Firefox"
+				},
+				{
+					"PackageIdentifier" : "Mozilla.Thunderbird"
+				},
+				{
+					"PackageIdentifier" : "Insecure.Nmap"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier" : "RaspberryPiFoundation.RaspberryPiImager"
+				},
+				{
+					"PackageIdentifier" : "RubyInstallerTeam.Ruby.3.1"
+				},
+				{
+					"PackageIdentifier" : "Spotify.Spotify"
+				},
+				{
+					"PackageIdentifier" : "SublimeHQ.SublimeText.4"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier" : "Debian.Debian"
+				},
+				{
+					"PackageIdentifier" : "TigerVNCproject.TigerVNC"
+				},
+				{
+					"PackageIdentifier" : "TigerVNCproject.TigerVNC"
+				},
+				{
+					"PackageIdentifier" : "VideoLAN.VLC"
+				},
+				{
+					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
+				},
+				{
+					"PackageIdentifier" : "Obsidian.Obsidian"
+				},
+				{
+					"PackageIdentifier" : "Balena.Etcher"
+				},
+				{
+					"PackageIdentifier" : "PeterPawlowski.foobar2000"
+				},
+				{
+					"PackageIdentifier" : "WinSCP.WinSCP"
+				},
+				{
+					"PackageIdentifier" : "TheDocumentFoundation.LibreOffice"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
+				},
+				{
+					"PackageIdentifier" : "7zip.7zip"
+				},
+				{
+					"PackageIdentifier" : "Oracle.VirtualBox"
+				},
+				{
+					"PackageIdentifier" : "WireGuard.WireGuard"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.6"
+				},
+				{
+					"PackageIdentifier" : "ShiningLight.OpenSSL"
+				},
+				{
+					"PackageIdentifier" : "RedHat.VirtViewer"
+				},
+				{
+					"PackageIdentifier" : "Hashicorp.Vagrant"
+				},
+				{
+					"PackageIdentifier" : "PuTTY.PuTTY"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
+				},
+				{
+					"PackageIdentifier" : "JohnMacFarlane.Pandoc"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsPCHealthCheck"
+				},
+				{
+					"PackageIdentifier" : "Logitech.OptionsPlus"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.LAPS"
+				},
+				{
+					"PackageIdentifier" : "KaiKramer.KeyStoreExplorer"
+				},
+				{
+					"PackageIdentifier" : "ShiningLight.OpenSSL"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsAdminCenter"
+				},
+				{
+					"PackageIdentifier" : "Google.Chrome"
+				},
+				{
+					"PackageIdentifier" : "ShiningLight.OpenSSL"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
+				},
+				{
+					"PackageIdentifier" : "Chocolatey.ChocolateyGUI"
+				},
+				{
+					"PackageIdentifier" : "SyncTrayzor.SyncTrayzor"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion" : "1.4.11071"
+}
